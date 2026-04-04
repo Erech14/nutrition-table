@@ -38,8 +38,8 @@
 
 ## Использование ИИ
 100% AI:
-- /main/app/main.py
-- /main/app/template/index.html
+- /main/app/main.py (не протестированно)
+- /main/app/template/index.html (не протестированно)
 
 50% AI:
 - /main/README.md
